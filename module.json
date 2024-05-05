@@ -1,0 +1,12 @@
+{
+  "id": "paranoia-2017-theme",
+  "title": "Paranoia (2017) Theme",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "styles": [
+    "red-clearance.css"
+]
+}
